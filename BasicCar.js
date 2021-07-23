@@ -4,4 +4,7 @@ class BasicCar{
         this.maxSpeed = maxSpeed;
         this.price = price;
     }
+    run(){
+        console.log('Running........');
+    }
 }
